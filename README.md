@@ -61,7 +61,7 @@
 
 Перечень компонентов: [BOM](/doc/Delta-C_Keyboard_BOM.pdf)
 
-Gerber-Файл для изготовления платы: [Gerber](https://github.com/AlexPodlesnov/ZX-Clone-Delta-C-mechanical-keyboard/tree/main/doc)
+Gerber-Файл для изготовления платы: [Gerber](https://github.com/AlexPodlesnov/ZX-Clone-Delta-C-mechanical-keyboard/tree/main/gerber)
 
 Лазерная гравировка клавиш: +7(499)755-75-44, [www.laserskills.ru](https://laserskills.ru/), zakaz@laserskills.ru
 
