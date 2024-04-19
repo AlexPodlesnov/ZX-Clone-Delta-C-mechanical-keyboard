@@ -8,17 +8,17 @@
 ## Дельта-С
 
 Общий вид
-![Дельта-С в разобраннном виде](img/Delta-s/delta-s-0.jpeg)
+![Дельта-С в разобраннном виде](img/delta-s-0.jpeg)
 
 Дельта-С в разобраннном виде:
-![Дельта-С в разобраннном виде](img/Delta-s/delta-s-1.jpeg)
+![Дельта-С в разобраннном виде](img/delta-s-1.jpeg)
 
 Подробнее о Дельта-С можно прочитать тут:
 - https://dzen.ru/a/Y7U3m4OKTEwFWnLi
 
 ## Плата клавиатуры на механический свичах
 Размеры платы и клавиатурного поля
-![Дельта-С клавиатура. Размеры клавиатурного поля](img/Delta-s/Delta-KeyboardField-Dimmension.jpg)
+![Дельта-С клавиатура. Размеры клавиатурного поля](img/Delta-KeyboardField-Dimmension.jpg)
 
 Размеры и количество кнопок (KeyCaps)
 |     Клавиша      | Размер | Количество | Цвет  |
@@ -47,15 +47,15 @@
 ![Цветовая палитра 2](https://ae01.alicdn.com/kf/S26bd7d5ef7914e5d9cfb48e229b77be4J.jpg "Цветовая палитра 2")
 
 Вид 2D с лицевой стороны
-![Дельта-С клавиатура. Вид 2D с лицевой стороны](img/Delta-s/DeltaKBD_ver.2_TopWithSilk.jpg)
+![Дельта-С клавиатура. Вид 2D с лицевой стороны](img/DeltaKBD_ver.2_TopWithSilk.jpg)
 Вид 2D с обратной стороны
-![Дельта-С клавиатура. Вид 2D с обратной стороны](img/Delta-s/DeltaKBD_ver.2_BottomWithSilk.jpg)
+![Дельта-С клавиатура. Вид 2D с обратной стороны](img/DeltaKBD_ver.2_BottomWithSilk.jpg)
 Вид 3D с лицевой стороны
-![Дельта-С клавиатура. Вид 3D с лицевой стороны](img/Delta-s/DeltaKBD_ver.2_Top3D.jpg)
+![Дельта-С клавиатура. Вид 3D с лицевой стороны](img/DeltaKBD_ver.2_Top3D.jpg)
 Вид 3D с обратной стороны
-![Дельта-С клавиатура. Вид 3D с обратной стороны](img/Delta-s/DeltaKBD_ver.2_Bottom3D.jpg)
+![Дельта-С клавиатура. Вид 3D с обратной стороны](img/DeltaKBD_ver.2_Bottom3D.jpg)
 Принципиальная схема клавиатуры
-![Дельта-С клавиатура. Принципиальная схема](img/Delta-s/Schematic_Extended-Keyboard-Delta-Original-Format.png)
+![Дельта-С клавиатура. Принципиальная схема](img/Schematic_Extended-Keyboard-Delta-Original-Format.png)
 
 Схема разработана по мотивам опубликованной PokeMon на форуме [www.sinclairzxworld.com](https://www.sinclairzxworld.com/viewtopic.php?t=1777) [схемы](https://www.sinclairzxworld.com/download/file.php?id=2645&sid=b241b771a1777453060055383eb7e17b) для ZX Spectrum Plus / Spectrum 128k.
 
@@ -66,12 +66,12 @@ Gerber-Файл для изготовления платы: [Gerber](https://git
 Лазерная гравировка клавиш: +7(499)755-75-44, [www.laserskills.ru](https://laserskills.ru/), zakaz@laserskills.ru
 
 Печатная плата в корпусе
-![Дельта-С клавиатура. Плата в корпусе](img/Delta-s/Delta-C_Keyboard_PCB01.JPG)
+![Дельта-С клавиатура. Плата в корпусе](img/Delta-C_Keyboard_PCB01.JPG)
 Печатная плата с монтажом компонентов
-![Дельта-С клавиатура. Плата собрана](img/Delta-s/Delta-C_Keyboard_PCB02.JPG)
+![Дельта-С клавиатура. Плата собрана](img/Delta-C_Keyboard_PCB02.JPG)
 Клавиатура в сборе
-![Дельта-С клавиатура. Клавиатура в сборе](img/Delta-s/Delta-C_Keyboard01.JPG)
+![Дельта-С клавиатура. Клавиатура в сборе](img/Delta-C_Keyboard01.JPG)
 Клавиатура в корпусе
-![Дельта-С клавиатура. Клавиатура в корпусе](img/Delta-s/Delta-C_wNewKeyboard02.JPG)
+![Дельта-С клавиатура. Клавиатура в корпусе](img/Delta-C_wNewKeyboard02.JPG)
 Компьютер с новой клавиатурой
-![Дельта-С клавиатура. Компьютер с новой клавиатурой](img/Delta-s/Delta-C_wNewKeyboard01.JPG)
+![Дельта-С клавиатура. Компьютер с новой клавиатурой](img/Delta-C_wNewKeyboard01.JPG)
